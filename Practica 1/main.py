@@ -6,6 +6,7 @@ import cv2
 from model3d import Model3D
 import shutil
 
+# Necesario para la correcta ejecucion del codigo en consola, no se puede ejecutar simplemente con el run.
 # python main.py --test_path imgs_template_real\secuencia --models_path 3d_models --detector KEYPOINTS
 # python main.py --test_path imgs_template_real\test --models_path 3d_models --detector KEYPOINTS
 
